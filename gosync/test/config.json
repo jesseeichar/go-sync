@@ -1,12 +1,10 @@
 {
-  "Mapping": [
+  "DebugLevel": 999,
+  "Log" : "test-log.log",
+  "Mappings": [
     {
-      "From": "test/from1",
-      "To": ["test/to1", "test/to2"]
-    },
-    {
-      "From": "test/from2",
-      "To": ["test/to3", "test/to4"]
+      "From": "test/from",
+      "To": ["test/to"]
     }
   ]
 }

@@ -1,10 +1,13 @@
 {
+  "Processed": {
+    "c:/Program Files": true
+  },
   "PathToInfo": {
     "c:/Program Files/file": {
-      "LastModified": "AQAAAA7Mtv3wNTDohAB4"
+      "ModTimeBytes": "AQAAAA7MvJOoO0KehAB4"
     },
     "c:/Program Files/file2": {
-      "LastModified": "AQAAAA7Mtv3wNTDwVAB4"
+      "ModTimeBytes": "AQAAAA7MvJOoO0KmVAB4"
     }
   }
 }

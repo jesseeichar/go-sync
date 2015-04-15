@@ -1,0 +1,12 @@
+{
+  "Mappings": [
+    {
+      "From": "test/from1",
+      "To": ["test/to1", "test/to2"]
+    },
+    {
+      "From": "test/from2",
+      "To": ["test/to3", "test/to4"]
+    }
+  ]
+}
